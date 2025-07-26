@@ -33,9 +33,13 @@ A simple blog web application built with **PHP** and **MySQL** that allows users
 
 ---
 
-<pre> <code>```bash 📂 Project Structure /bloggg ├── config/ # Database config and connection ├── images/ # Uploaded user avatars and post thumbnails ├── admin/ # Admin dashboard pages ├── parts/ # Reusable components like header, footer, navbar └── index.php # Main entry point ```</code> </pre>
-
-
+📂 Project Structure
+bloggg
+- config/         # Database config and connection
+- images/         # Uploaded user avatars and post thumbnails
+- admin/          # Admin dashboard pages
+- parts/          # Reusable components like header, footer, navbar
+- index/      # Main entry point
 
 ---
 
